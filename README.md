@@ -13,7 +13,7 @@ https://deliaswe.github.io/Code-Refactor/
 
 ## Usage
 
-![](./assets/images/screencapture-deliaswe-github-io-Code-Refactor-2023-04-06-18_42_03.pngassets)
+![](./assets/images/screencapture-deliaswe-github-io-Code-Refactor-2023-04-06-18_42_03.png)
 
 ## Credits
 N/A
